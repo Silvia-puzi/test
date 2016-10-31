@@ -1,0 +1,28 @@
+From 6d24cc297aff27b3e0b87a050a63ccf1e4475fc4 Mon Sep 17 00:00:00 2001
+From: xinguan101 <920835700@qq.com>
+Date: Mon, 31 Oct 2016 17:24:21 +0800
+Subject: [PATCH] =?UTF-8?q?=E6=B7=BB=E5=8A=A0eat=E6=96=B9=E6=B3=95?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ Test.java | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/Test.java b/Test.java
+index e3a9c35..4fcdbc5 100644
+--- a/Test.java
++++ b/Test.java
+@@ -1,3 +1,7 @@
+ class Test{
+ 	String name;
++	int i;
++	public void eat(){
++		
++	}
+ }
+\ No newline at end of file
+-- 
+2.10.1.windows.1
+
